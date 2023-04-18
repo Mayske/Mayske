@@ -7,10 +7,6 @@
 - Nomor telepon        : 082293518545
 - Alamat               : Taloarane
 
-## pendidikan
-- Sekolah Dasar : SD GMIST Zaitun Paghulu
-- Sekolah Menengah Pertama : SMP N 1 Manganitu
-- Sekolah Menengah Akhir : SMA N 1 Manganitu
 <!--
 **Mayske/Mayske** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
