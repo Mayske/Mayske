@@ -1,4 +1,4 @@
-#CURRICULUM VITAE 
+# CURRICULUM VITAE 
 - Nama : Mayske Angelica Takasihaeng
 - Tempat Tanggal Lahir : Manganitu 08 Agustus 2002
 - Jenis Kelamin        : Perempuan
@@ -7,7 +7,7 @@
 - Nomor telepon        : 082293518545
 - Alamat               : Taloarane
 
-##pendidikan
+## pendidikan
 - Sekolah Dasar : SD GMIST Zaitun Paghulu
 - Sekolah Menengah Pertama : SMP N 1 Manganitu
 - Sekolah Menengah Akhir : SMA N 1 Manganitu
